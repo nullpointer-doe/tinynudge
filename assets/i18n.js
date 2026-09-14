@@ -215,4 +215,20 @@
     });
 
   window.TN.ready = ready;
+
+  (function loadAnalytics() {
+    var cfg = document.createElement("script");
+    cfg.src = assetBase + "site-config.js";
+    cfg.onload = function () {
+      var an = document.createElement("script");
+      an.src = assetBase + "analytics.js";
+      document.head.appendChild(an);
+    };
+    cfg.onerror = function () {
+      var an = document.createElement("script");
+      an.src = assetBase + "analytics.js";
+      document.head.appendChild(an);
+    };
+    document.head.appendChild(cfg);
+  })();
 })();
