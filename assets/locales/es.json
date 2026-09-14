@@ -121,7 +121,7 @@
   "page.mac.h1": "Agitador de ratón en la barra de menús — descarga gratuita",
   "page.mac.p": "El sitio web mantiene encendida la <em>pantalla</em>. La app para Mac mueve el <em>puntero real</em> unos píxeles y de vuelta, una vez por minuto. Una imagen de disco para Apple Silicon e Intel. macOS 13 o posterior. Se requiere el permiso de Accesibilidad.",
   "page.mac.notes": "Notas de instalación",
-  "page.mac.meta": "Versión 1.0.1. Unos 70 KB. Sin cuenta, clave de licencia ni pago.",
+  "page.mac.meta": "Versión 1.1.0. Unos 70 KB. Sin cuenta, clave de licencia ni pago.",
   "page.mac.install": "Instalar",
   "page.mac.i1": "Abre la imagen de disco y arrastra TinyNudge a Aplicaciones.",
   "page.mac.i2": "Primer arranque: macOS puede decir que Apple no pudo verificar la app. Pulsa <strong>Listo</strong> (no Mover a la Papelera). Luego abre <strong>Ajustes del Sistema → Privacidad y seguridad</strong>, ve al mensaje sobre TinyNudge y pulsa <strong>Abrir de todos modos</strong>. O en el Finder: clic derecho en TinyNudge → Abrir → Abrir.",

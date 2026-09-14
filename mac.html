@@ -36,28 +36,28 @@
         <h1 data-i18n="page.mac.h1">Menu-bar mouse jiggler — free download</h1>
         <p data-i18n="page.mac.p" data-i18n-html>
           The website keeps the <em>display</em> awake. The Mac app nudges the <em>real pointer</em>
-          a few pixels and back, once a minute. One disk image for Apple Silicon and Intel. macOS 13
-          or later. Accessibility permission is required.
+          a few pixels and back, then keeps the display from sleeping. One disk image for Apple
+          Silicon and Intel. macOS 13 or later. Accessibility permission is required.
         </p>
         <p>
           <a class="btn" href="./downloads/TinyNudge.dmg" data-i18n="mac.download">Download for Mac — free</a>
+          <a class="btn btn-ghost" href="./downloads/TinyNudge.zip">Download ZIP</a>
           <a class="btn btn-ghost" href="./guides/mouse-jiggler-for-mac.html" data-i18n="page.mac.notes">Install notes</a>
         </p>
         <p data-i18n="page.mac.meta">
-          Version 1.0.1. About 70 KB. No account, license key, or payment.
+          Version 1.1.0. Universal Mac app. No account, license key, or payment.
         </p>
         <h2 data-i18n="page.mac.install">Install</h2>
         <ol>
           <li data-i18n="page.mac.i1">Open the disk image and drag TinyNudge to Applications.</li>
-          <li data-i18n="page.mac.i2" data-i18n-html>
-            First launch: macOS may say Apple could not verify the app. Click
-            <strong>Done</strong> (not Move to Trash). Then open
-            <strong>System Settings → Privacy &amp; Security</strong>, scroll to the message about
-            TinyNudge, and click <strong>Open Anyway</strong>. Or in Finder: right-click TinyNudge →
-            Open → Open.
+          <li>
+            If macOS says Apple could not verify the app, click <strong>Done</strong> (not Move to
+            Trash). Double-click <strong>Open TinyNudge.command</strong> on the disk image, or in
+            Terminal run <code>xattr -cr /Applications/TinyNudge.app</code>, then right-click
+            TinyNudge → Open. If the disk image will not mount, use the ZIP instead.
           </li>
           <li data-i18n="page.mac.i3">System Settings → Privacy &amp; Security → Accessibility → enable TinyNudge.</li>
-          <li data-i18n="page.mac.i4">Start and stop from the window or the menu-bar icon.</li>
+          <li>Click Start. A countdown shows the next nudge. Pick 15, 30, or 60 seconds.</li>
         </ol>
         <p data-i18n="page.mac.more" data-i18n-html>
           Longer notes:

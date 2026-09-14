@@ -121,7 +121,7 @@
   "page.mac.h1": "Agitatore del mouse nella barra dei menu — download gratuito",
   "page.mac.p": "Il sito tiene acceso il <em>display</em>. L’app per Mac sposta il <em>puntatore reale</em> di pochi pixel e indietro, una volta al minuto. Un’immagine disco per Apple Silicon e Intel. macOS 13 o successivo. È richiesto il permesso Accessibilità.",
   "page.mac.notes": "Note di installazione",
-  "page.mac.meta": "Versione 1.0.1. Circa 70 KB. Nessun account, chiave di licenza o pagamento.",
+  "page.mac.meta": "Versione 1.1.0. Circa 70 KB. Nessun account, chiave di licenza o pagamento.",
   "page.mac.install": "Installa",
   "page.mac.i1": "Apri l’immagine disco e trascina TinyNudge in Applicazioni.",
   "page.mac.i2": "Primo avvio: macOS può dire che Apple non ha potuto verificare l’app. Fai clic su <strong>Fine</strong> (non su Sposta nel Cestino). Poi apri <strong>Impostazioni di Sistema → Privacy e sicurezza</strong>, scorri fino al messaggio su TinyNudge e fai clic su <strong>Apri comunque</strong>. Oppure nel Finder: clic destro su TinyNudge → Apri → Apri.",

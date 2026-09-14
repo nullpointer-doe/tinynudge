@@ -121,7 +121,7 @@
   "page.mac.h1": "菜单栏鼠标抖动器 — 免费下载",
   "page.mac.p": "网站保持<em>显示器</em>常亮。Mac 应用每分钟将<em>真正的指针</em>轻推几个像素再移回。一张磁盘映像同时支持 Apple Silicon 和 Intel。macOS 13 或更高版本。需要辅助功能权限。",
   "page.mac.notes": "安装说明",
-  "page.mac.meta": "版本 1.0.1。约 70 KB。无需账户、许可证密钥或付款。",
+  "page.mac.meta": "版本 1.1.0。约 70 KB。无需账户、许可证密钥或付款。",
   "page.mac.install": "安装",
   "page.mac.i1": "打开磁盘映像，将 TinyNudge 拖到“应用程序”。",
   "page.mac.i2": "首次启动：macOS 可能提示 Apple 无法验证该应用。点<strong>完成</strong>（不要点移到废纸篓）。然后打开<strong>系统设置 → 隐私与安全性</strong>，滚动到关于 TinyNudge 的提示，点<strong>仍要打开</strong>。或在访达中：右键 TinyNudge → 打开 → 打开。",

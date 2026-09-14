@@ -41,8 +41,9 @@
         </p>
         <p>
           TinyNudge for Mac is a menu-bar app. It offsets the real cursor a few pixels and returns
-          it, once a minute by default. One build covers Apple Silicon and Intel. It requires
-          macOS 13 or later. The app is free. Download the disk image from the
+          it, then holds a display-sleep assertion while it is running. Default interval is 30
+          seconds (15 / 30 / 60). One build covers Apple Silicon and Intel. It requires macOS 13
+          or later. The app is free. Download the disk image from the
           <a href="../mac.html">Mac app page</a>.
         </p>
         <h2>Install</h2>
@@ -50,13 +51,15 @@
           <li>Open the disk image and drag TinyNudge into Applications.</li>
           <li>
             First launch: if macOS says Apple could not verify the app, click Done, then
-            System Settings → Privacy &amp; Security → Open Anyway. Or right-click the app → Open.
+            double-click <strong>Open TinyNudge.command</strong> on the disk, or run
+            <code>xattr -cr /Applications/TinyNudge.app</code> and right-click the app → Open.
+            If the disk image will not open, download the ZIP from the same page.
           </li>
           <li>
             Grant Accessibility: System Settings → Privacy &amp; Security → Accessibility → TinyNudge.
             Without that permission, macOS will not let any app move the pointer.
           </li>
-          <li>Start from the window or the menu-bar icon. Stop the same way.</li>
+          <li>Click Start. The window shows a countdown to the next nudge.</li>
         </ol>
         <h2>What it will not do</h2>
         <p>
