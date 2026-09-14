@@ -121,7 +121,7 @@
   "page.mac.h1": "Agiteur de souris en barre de menus — téléchargement gratuit",
   "page.mac.p": "Le site garde l’<em>écran</em> allumé. L’app Mac décale le <em>vrai pointeur</em> de quelques pixels et le ramène, une fois par minute. Une image disque pour Apple Silicon et Intel. macOS 13 ou plus récent. La permission Accessibilité est requise.",
   "page.mac.notes": "Notes d’installation",
-  "page.mac.meta": "Version 1.1.0. Environ 70 Ko. Pas de compte, de clé de licence ni de paiement.",
+  "page.mac.meta": "Version 1.1.1. Environ 70 Ko. Pas de compte, de clé de licence ni de paiement.",
   "page.mac.install": "Installer",
   "page.mac.i1": "Ouvrez l’image disque et glissez TinyNudge dans Applications.",
   "page.mac.i2": "Premier lancement : macOS peut indiquer qu’Apple n’a pas pu vérifier l’app. Cliquez sur <strong>Terminé</strong> (pas Mettre à la corbeille). Puis ouvrez <strong>Réglages Système → Confidentialité et sécurité</strong>, descendez jusqu’au message concernant TinyNudge et cliquez sur <strong>Ouvrir quand même</strong>. Ou dans le Finder : clic droit sur TinyNudge → Ouvrir → Ouvrir.",

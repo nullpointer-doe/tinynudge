@@ -121,7 +121,7 @@
   "page.mac.h1": "Menüleisten-Mauswackler — kostenloser Download",
   "page.mac.p": "Die Website hält das <em>Display</em> wach. Die Mac-App bewegt den <em>echten Zeiger</em> ein paar Pixel und zurück, einmal pro Minute. Ein Disk-Image für Apple Silicon und Intel. macOS 13 oder neuer. Bedienungshilfen nötig.",
   "page.mac.notes": "Installationshinweise",
-  "page.mac.meta": "Version 1.1.0. Etwa 70 KB. Kein Konto, kein Lizenzschlüssel, keine Zahlung.",
+  "page.mac.meta": "Version 1.1.1. Etwa 70 KB. Kein Konto, kein Lizenzschlüssel, keine Zahlung.",
   "page.mac.install": "Installieren",
   "page.mac.i1": "Disk-Image öffnen und TinyNudge nach Programme ziehen.",
   "page.mac.i2": "Erster Start: macOS kann sagen, Apple könne die App nicht prüfen. <strong>Fertig</strong> klicken (nicht in den Papierkorb). Dann <strong>Systemeinstellungen → Datenschutz &amp; Sicherheit</strong> → <strong>Trotzdem öffnen</strong>. Oder im Finder: TinyNudge mit Rechtsklick → Öffnen.",
