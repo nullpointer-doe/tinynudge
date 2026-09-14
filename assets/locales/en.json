@@ -121,7 +121,7 @@
   "page.mac.h1": "Menu-bar mouse jiggler — free download",
   "page.mac.p": "The website keeps the <em>display</em> awake. The Mac app nudges the <em>real pointer</em> a few pixels and back, and keeps the display from sleeping. One disk image for Apple Silicon and Intel. macOS 13 or later. Accessibility permission is required.",
   "page.mac.notes": "Install notes",
-  "page.mac.meta": "Version 1.1.1. Universal Mac app. No account, license key, or payment.",
+  "page.mac.meta": "Version 1.1.2. Universal Mac app. No account, license key, or payment.",
   "page.mac.install": "Install",
   "page.mac.i1": "Open the disk image and drag TinyNudge to Applications.",
   "page.mac.i2": "First launch: macOS may say Apple could not verify the app. Click <strong>Done</strong> (not Move to Trash). Then open <strong>System Settings → Privacy &amp; Security</strong>, scroll to the message about TinyNudge, and click <strong>Open Anyway</strong>. Or in Finder: right-click TinyNudge → Open → Open.",
