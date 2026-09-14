@@ -1,6 +1,4 @@
 (function () {
-  var id = String(window.TINYNUDGE_GA_ID || "").trim();
-
   function track(name, params) {
     if (typeof window.gtag === "function") window.gtag("event", name, params || {});
   }
@@ -20,6 +18,9 @@
     true,
   );
 
+  if (typeof window.gtag === "function") return;
+
+  var id = String(window.TINYNUDGE_GA_ID || "").trim();
   if (!/^G-[A-Z0-9]+$/i.test(id)) return;
 
   window.dataLayer = window.dataLayer || [];
@@ -27,7 +28,7 @@
     window.dataLayer.push(arguments);
   };
   window.gtag("js", new Date());
-  window.gtag("config", id, { anonymize_ip: true });
+  window.gtag("config", id);
 
   var s = document.createElement("script");
   s.async = true;
